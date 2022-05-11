@@ -1,4 +1,4 @@
-## Assignment_House-Price-Prediction
+## Assignment_House_Price_Prediction
 ## Table of Contents
 1. Description of Project
 2. Technologies Used
