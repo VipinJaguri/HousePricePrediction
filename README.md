@@ -1,4 +1,4 @@
-## Assignment_ Advanced Linear Regression House-Price-Prediction
+## Assignment_House-Price-Prediction
 ## Table of Contents
 1. Description of Project
 2. Technologies Used
